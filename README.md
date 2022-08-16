@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Django web framework.
 - :electric_plug: I work with:  
   
-![](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python) ![](https://img.shields.io/badge/-HTML-important?style=for-the-badge&logo=html5) ![](https://img.shields.io/badge/-CSS-green?style=for-the-badge&logo=css3) ![](https://img.shields.io/badge/-Git-lightgrey?style=for-the-badge&logo=git) ![](https://img.shields.io/badge/-Figma-blue?style=for-the-badge&logo=figma) ![](https://img.shields.io/badge/-UNIX-red?style=for-the-badge&logo=linux)
+![](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python) ![](https://img.shields.io/badge/-HTML-important?style=for-the-badge&logo=html5) ![](https://img.shields.io/badge/-CSS-green?style=for-the-badge&logo=css3) ![](https://img.shields.io/badge/-Git-lightgrey?style=for-the-badge&logo=git) ![](https://img.shields.io/badge/-UNIX-E01313?style=for-the-badge&logo=linux) ![](https://img.shields.io/badge/-Figma-blue?style=for-the-badge&logo=figma)
   
 And counting...
 
