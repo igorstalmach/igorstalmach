@@ -11,3 +11,5 @@ And counting...
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorstalmach&layout=compact&theme=dark"/>
 
 - :speech_balloon: Ask me about special relativity or Apple II, I will bore you for hours.
+
+![IMG_5980](https://user-images.githubusercontent.com/92231661/184785788-fda3a809-c9d7-4423-b7d0-2d62e2c30700.jpeg)
