@@ -5,10 +5,9 @@
 <h2>$ cat About-me</h2>
 <ul>
     <li>💻 Computer science student from Poland 🇵🇱.</li>
-    <li>🔭 Currently working on a personal website.</li>
-    <li>📈 Currently perfecting Django framework skills.</li>
+    <li>🔭 Currently perfecting Django framework skills.</li>
     <li>💬 Ask me about special relativity or the first iMac and we will talk for hours.</li>
-    <li>💾 Vista-era PCs make the best routers.</li>
+    <li>💾 One man's trash is another's home server.</li>
 </ul>
 
 <h2>$ cat Tools</h2>
@@ -27,7 +26,7 @@
 <a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/-Latex-008080?style=for-the-badge&logo=latex" alt="LaTeX"></a>
 <a href="https://www.docker.com"><img src="https://img.shields.io/badge/-Docker-002C66?style=for-the-badge&logo=docker" alt="Docker"></a>
 
-<a href="https://www.apple.com/macos/monterey/"><img src="https://img.shields.io/badge/-macOS-010101?style=for-the-badge&logo=apple" alt="macOS"></a>
+<a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/-macOS-010101?style=for-the-badge&logo=apple" alt="macOS"></a>
 <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/-Ubuntu-D64514?style=for-the-badge&logo=ubuntu" alt="Ubuntu"></a>
 <a href="https://pop.system76.com"><img src="https://img.shields.io/badge/-Pop!__OS-79726F?style=for-the-badge&logo=pop!_os" alt="Pop!_OS"></a>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VS%20Code-0066B8?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code"></a>
