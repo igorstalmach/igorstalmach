@@ -32,6 +32,7 @@
 <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/-Ubuntu-D64514?style=for-the-badge&logo=ubuntu" alt="Ubuntu"></a>
 <a href="https://pop.system76.com"><img src="https://img.shields.io/badge/-Pop!__OS-79726F?style=for-the-badge&logo=pop!_os" alt="Pop!_OS"></a>
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VS%20Code-0066B8?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code"></a>
+<a href="https://www.jetbrains.com"><img src="https://img.shields.io/badge/-Jetbrains-010101?style=for-the-badge&logo=jetbrains" alt="Jetbrains"></a>
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-E5E5E5?style=for-the-badge&logo=figma" alt="Figma"></a>
 <a href="https://www.pixelmator.com/pro/"><img src="https://img.shields.io/badge/-Pixelmator Pro-F1F1F1?style=for-the-badge" alt="Pixelmator Pro"></a>
 
