@@ -37,7 +37,7 @@
 
 <h2>$ cat Contact-me</h2>
 <a href="mailto:igorstalmach@outlook.com"><img src="https://img.shields.io/badge/-Mail-DE685E?style=for-the-badge&logo=gmail" alt="Mail"></a>
-<a href=""><img src="https://img.shields.io/badge/-LinkedIn-0277B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>  
+<a href="https://www.linkedin.com/in/igorstalmach"><img src="https://img.shields.io/badge/-LinkedIn-0277B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>  
 
 <h2>$ cat Message</h2>
 
