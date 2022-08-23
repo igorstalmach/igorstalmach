@@ -17,7 +17,6 @@
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-F6D146?style=for-the-badge&logo=python" alt="Python"></a>
 <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/-Django-0B4B33?style=for-the-badge&logo=django" alt="Django"></a>
 <a href="https://numpy.org"><img src="https://img.shields.io/badge/-NumPy-023243?style=for-the-badge&logo=numpy" alt="NumPy"></a>
-<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/-Pandas-130754?style=for-the-badge&logo=pandas" alt="Pandas"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-F1652A?style=for-the-badge&logo=html5" alt="HTML"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-274DE3?style=for-the-badge&logo=css3" alt="CSS"></a>
 <a href="https://dev.java"><img src="https://img.shields.io/badge/-Java-E22025?style=for-the-badge&logo=oracle" alt="Java"></a>
