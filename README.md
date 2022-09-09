@@ -19,13 +19,13 @@
 <a href="https://numpy.org"><img src="https://img.shields.io/badge/-NumPy-023243?style=for-the-badge&logo=numpy" alt="NumPy"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-F1652A?style=for-the-badge&logo=html5" alt="HTML"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-274DE3?style=for-the-badge&logo=css3" alt="CSS"></a>
+<a href="https://www.javascript.com"><img src="https://img.shields.io/badge/-JavaScript-FCDC00?style=for-the-badge&logo=javascript" alt="JavaScript"></a>
 <a href="https://dev.java"><img src="https://img.shields.io/badge/-Java-E22025?style=for-the-badge&logo=oracle" alt="Java"></a>
 <a href="https://cplusplus.com"><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Java"></a>
 
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-3C2D00?style=for-the-badge&logo=git" alt="Git"></a>
 <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql" alt="MySQL"></a>
 <a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/-Latex-008080?style=for-the-badge&logo=latex" alt="LaTeX"></a>
-<a href="https://www.docker.com"><img src="https://img.shields.io/badge/-Docker-002C66?style=for-the-badge&logo=docker" alt="Docker"></a>
 
 <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/-macOS-010101?style=for-the-badge&logo=apple" alt="macOS"></a>
 <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/-Ubuntu-D64514?style=for-the-badge&logo=ubuntu" alt="Ubuntu"></a>
