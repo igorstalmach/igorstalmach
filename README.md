@@ -4,7 +4,7 @@
 </div>
 </a>
 
-<h2>$ cat About-me</h2>
+<h2>About me</h2>
 <ul>
     <li>💻 Computer science student from Poland 🇵🇱.</li>
     <li>🔭 Currently perfecting Django framework skills.</li>
@@ -12,7 +12,7 @@
     <li>💾 One man's trash is another's home server.</li>
 </ul>
 
-<h2>$ cat Tools</h2>
+<h2>Tools</h2>
 
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-F6D146?style=for-the-badge&logo=python" alt="Python"></a>
 <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/-Django-0B4B33?style=for-the-badge&logo=django" alt="Django"></a>
@@ -34,18 +34,8 @@
 <a href="https://www.jetbrains.com"><img src="https://img.shields.io/badge/-Jetbrains-010101?style=for-the-badge&logo=jetbrains" alt="Jetbrains"></a>
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-E5E5E5?style=for-the-badge&logo=figma" alt="Figma"></a>
 
-<h2>$ cat Contact-me</h2>
+<h2>Contact me</h2>
 <a href="mailto:igorstalmach@outlook.com"><img src="https://img.shields.io/badge/-Mail-DE685E?style=for-the-badge&logo=gmail" alt="Mail"></a>
 <a href="https://www.linkedin.com/in/igorstalmach"><img src="https://img.shields.io/badge/-LinkedIn-0277B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>  
-
-<h2>$ cat Message</h2>
-
-<pre>
-   __                              _              __         
-  / / ___ __  _____   ___ _  ___  (________   ___/ ___ ___ __
- / _ / _ `| |/ / -_) / _ `/ / _ \/ / __/ -_) / _  / _ `/ // /
-/_//_\_,_/|___/\__/  \_,_/ /_//_/_/\__/\__/  \_,_/\_,_/\_, / 
-                                                      /___/  
-</pre>
 
 ![photo of a beach, taken by me](./images/beach.jpeg)
