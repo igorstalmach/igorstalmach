@@ -23,8 +23,6 @@
 <a href="https://dev.java"><img src="https://img.shields.io/badge/-Java-5B5658?style=for-the-badge&logo=oracle" alt="Java"></a>
 <a href="https://cplusplus.com"><img src="https://img.shields.io/badge/-C++-5B5658?style=for-the-badge&logo=cplusplus" alt="Java"></a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-5B5658?style=for-the-badge&logo=git" alt="Git"></a>
 <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-5B5658?style=for-the-badge&logo=mysql" alt="MySQL"></a>
 <a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/-Latex-5B5658?style=for-the-badge&logo=latex" alt="LaTeX"></a>
@@ -35,6 +33,8 @@
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VS%20Code-5B5658?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code"></a>
 <a href="https://www.jetbrains.com"><img src="https://img.shields.io/badge/-Jetbrains-5B5658?style=for-the-badge&logo=jetbrains" alt="Jetbrains"></a>
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-5B5658?style=for-the-badge&logo=figma" alt="Figma"></a>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Contact me</h2>
 <a href="mailto:igorstalmach@outlook.com"><img src="https://img.shields.io/badge/-Mail-DE685E?style=for-the-badge&logo=gmail" alt="Mail"></a>
