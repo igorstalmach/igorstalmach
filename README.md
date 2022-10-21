@@ -16,7 +16,7 @@
 
 <div style="display: flex;">
 
-<div>
+<div align="left">
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-5B5658?style=for-the-badge&logo=python" alt="Python"></a>
 <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/-Django-5B5658?style=for-the-badge&logo=django" alt="Django"></a>
 <a href="https://numpy.org"><img src="https://img.shields.io/badge/-NumPy-5B5658?style=for-the-badge&logo=numpy" alt="NumPy"></a>
@@ -38,7 +38,7 @@
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-5B5658?style=for-the-badge&logo=figma" alt="Figma"></a>
 </div>
 
-<div style="flex-grow: 0; flex-shrink: 0;">
+<div align="right" style="flex-grow: 0; flex-shrink: 0;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=000&layout=compact" width="350">
 </div>
 
