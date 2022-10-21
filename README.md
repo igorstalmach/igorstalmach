@@ -24,12 +24,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-5B5658?style=for-the-badge&logo=css3" alt="CSS"></a>
 <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/-JavaScript-5B5658?style=for-the-badge&logo=javascript" alt="JavaScript"></a>
 <a href="https://dev.java"><img src="https://img.shields.io/badge/-Java-5B5658?style=for-the-badge&logo=oracle" alt="Java"></a>
-<a href="https://cplusplus.com"><img src="https://img.shields.io/badge/-C++-5B5658?style=for-the-badge&logo=cplusplus" alt="Java"></a>
+<a href="https://cplusplus.com"><img src="https://img.shields.io/badge/-C++-5B5658?style=for-the-badge&logo=cplusplus" alt="Java"></a>  
 
+#
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-5B5658?style=for-the-badge&logo=git" alt="Git"></a>
 <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-5B5658?style=for-the-badge&logo=mysql" alt="MySQL"></a>
-<a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/-Latex-5B5658?style=for-the-badge&logo=latex" alt="LaTeX"></a>
+<a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/-Latex-5B5658?style=for-the-badge&logo=latex" alt="LaTeX"></a>  
 
+#
 <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/-macOS-5B5658?style=for-the-badge&logo=apple" alt="macOS"></a>
 <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/-Ubuntu-5B5658?style=for-the-badge&logo=ubuntu" alt="Ubuntu"></a>
 <a href="https://pop.system76.com"><img src="https://img.shields.io/badge/-Pop!__OS-5B5658?style=for-the-badge&logo=pop!_os" alt="Pop!_OS"></a>
@@ -38,7 +40,7 @@
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-5B5658?style=for-the-badge&logo=figma" alt="Figma"></a>
         </td>
         <td width="400" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=000&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=000&layout=compact">
         </td>
     </tr>
 </table>
