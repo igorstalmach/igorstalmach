@@ -28,6 +28,7 @@
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-5B5658?style=for-the-badge&logo=git" alt="Git"></a>
 <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-5B5658?style=for-the-badge&logo=mysql" alt="MySQL"></a>
 <a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/-Latex-5B5658?style=for-the-badge&logo=latex" alt="LaTeX"></a>
+
 <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/-macOS-5B5658?style=for-the-badge&logo=apple" alt="macOS"></a>
 <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/-Ubuntu-5B5658?style=for-the-badge&logo=ubuntu" alt="Ubuntu"></a>
 <a href="https://pop.system76.com"><img src="https://img.shields.io/badge/-Pop!__OS-5B5658?style=for-the-badge&logo=pop!_os" alt="Pop!_OS"></a>
