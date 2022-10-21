@@ -14,6 +14,9 @@
 
 <h2>Tools</h2>
 
+<div style="display: flex;">
+
+<div>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-5B5658?style=for-the-badge&logo=python" alt="Python"></a>
 <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/-Django-5B5658?style=for-the-badge&logo=django" alt="Django"></a>
 <a href="https://numpy.org"><img src="https://img.shields.io/badge/-NumPy-5B5658?style=for-the-badge&logo=numpy" alt="NumPy"></a>
@@ -33,8 +36,13 @@
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VS%20Code-5B5658?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code"></a>
 <a href="https://www.jetbrains.com"><img src="https://img.shields.io/badge/-Jetbrains-5B5658?style=for-the-badge&logo=jetbrains" alt="Jetbrains"></a>
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-5B5658?style=for-the-badge&logo=figma" alt="Figma"></a>
+</div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="flex-grow: 0; flex-shrink: 0;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=000&layout=compact" width="350">
+</div>
+
+</div>
 
 <h2>Contact me</h2>
 <a href="mailto:igorstalmach@outlook.com"><img src="https://img.shields.io/badge/-Mail-DE685E?style=for-the-badge&logo=gmail" alt="Mail"></a>
