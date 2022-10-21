@@ -23,6 +23,8 @@
 <a href="https://dev.java"><img src="https://img.shields.io/badge/-Java-5B5658?style=for-the-badge&logo=oracle" alt="Java"></a>
 <a href="https://cplusplus.com"><img src="https://img.shields.io/badge/-C++-5B5658?style=for-the-badge&logo=cplusplus" alt="Java"></a>
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-5B5658?style=for-the-badge&logo=git" alt="Git"></a>
 <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-5B5658?style=for-the-badge&logo=mysql" alt="MySQL"></a>
 <a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/-Latex-5B5658?style=for-the-badge&logo=latex" alt="LaTeX"></a>
