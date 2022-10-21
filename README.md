@@ -37,7 +37,7 @@
 <a href="https://www.jetbrains.com"><img src="https://img.shields.io/badge/-Jetbrains-5B5658?style=for-the-badge&logo=jetbrains" alt="Jetbrains"></a>
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-5B5658?style=for-the-badge&logo=figma" alt="Figma"></a>
         </td>
-        <td width="400">
+        <td width="400" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=000&layout=compact">
         </td>
     </tr>
