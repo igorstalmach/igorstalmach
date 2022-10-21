@@ -14,18 +14,16 @@
 
 <h2>Tools</h2>
 
-<div style="display: flex;">
-
-<div>
 <img src="https://img.shields.io/badge/-Python-5B5658?style=for-the-badge&logo=python" alt="Python">
 <img src="https://img.shields.io/badge/-Django-5B5658?style=for-the-badge&logo=django" alt="Django">
 <img src="https://img.shields.io/badge/-NumPy-5B5658?style=for-the-badge&logo=numpy" alt="NumPy">
 <img src="https://img.shields.io/badge/-HTML-5B5658?style=for-the-badge&logo=html5" alt="HTML">
 <img src="https://img.shields.io/badge/-CSS-5B5658?style=for-the-badge&logo=css3" alt="CSS">
 <img src="https://img.shields.io/badge/-JavaScript-5B5658?style=for-the-badge&logo=javascript" alt="JavaScript">
-
 <img src="https://img.shields.io/badge/-Java-5B5658?style=for-the-badge&logo=oracle" alt="Java">
 <img src="https://img.shields.io/badge/-C++-5B5658?style=for-the-badge&logo=cplusplus" alt="Java">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=000&layout=compact" width="350">
 
 <img src="https://img.shields.io/badge/-Git-5B5658?style=for-the-badge&logo=git" alt="Git">
 <img src="https://img.shields.io/badge/-MySQL-5B5658?style=for-the-badge&logo=mysql" alt="MySQL">
@@ -37,13 +35,6 @@
 <img src="https://img.shields.io/badge/-VS%20Code-5B5658?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code">
 <img src="https://img.shields.io/badge/-Jetbrains-5B5658?style=for-the-badge&logo=jetbrains" alt="Jetbrains">
 <img src="https://img.shields.io/badge/-Figma-5B5658?style=for-the-badge&logo=figma" alt="Figma">
-</div>
-
-<div style="flex-grow: 0; flex-shrink: 0;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=000&layout=compact" width="350">
-</div>
-
-</div>
 
 <h2>Contact me</h2>
 <a href="mailto:igorstalmach@outlook.com"><img src="https://img.shields.io/badge/-Mail-DE685E?style=for-the-badge&logo=gmail" alt="Mail"></a>
