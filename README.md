@@ -24,7 +24,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-5B5658?style=for-the-badge&logo=css3" alt="CSS"></a>
 <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/-JavaScript-5B5658?style=for-the-badge&logo=javascript" alt="JavaScript"></a>
 <a href="https://reactjs.org"><img src="https://img.shields.io/badge/-React-5B5658?style=for-the-badge&logo=react" alt="ReactJS"></a>
-<a href="https://cplusplus.com"><img src="https://img.shields.io/badge/-C/C++-5B5658?style=for-the-badge&logo=cplusplus" alt="C/C++"></a>  
+<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/-Java-5B5658?style=for-the-badge&logo=oracle" alt="Java"></a>  
 
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-5B5658?style=for-the-badge&logo=git" alt="Git"></a>
 <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-5B5658?style=for-the-badge&logo=mysql" alt="MySQL"></a>
