@@ -17,25 +17,28 @@
 <table>
     <tr>
         <td>
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-5B5658?style=for-the-badge&logo=python" alt="Python"></a>
-<a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/-Django-5B5658?style=for-the-badge&logo=django" alt="Django"></a>
-<a href="https://numpy.org"><img src="https://img.shields.io/badge/-NumPy-5B5658?style=for-the-badge&logo=numpy" alt="NumPy"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-5B5658?style=for-the-badge&logo=html5" alt="HTML"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-5B5658?style=for-the-badge&logo=css3" alt="CSS"></a>
-<a href="https://www.javascript.com"><img src="https://img.shields.io/badge/-JavaScript-5B5658?style=for-the-badge&logo=javascript" alt="JavaScript"></a>
-<a href="https://reactjs.org"><img src="https://img.shields.io/badge/-React-5B5658?style=for-the-badge&logo=react" alt="ReactJS"></a>
-<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/-Java-5B5658?style=for-the-badge&logo=oracle" alt="Java"></a>  
+<a><img src="https://img.shields.io/badge/-Python-5B5658?style=for-the-badge&logo=python" alt="Python"></a>
+<a><img src="https://img.shields.io/badge/-Django-5B5658?style=for-the-badge&logo=django" alt="Django"></a>
+<a><img src="https://img.shields.io/badge/-React-5B5658?style=for-the-badge&logo=react" alt="ReactJS"></a>
+<a><img src="https://img.shields.io/badge/-TypeScript-5B5658?style=for-the-badge&logo=typescript" alt="TypeScript"></a>
+<a><img src="https://img.shields.io/badge/-JavaScript-5B5658?style=for-the-badge&logo=javascript" alt="JavaScript"></a>
+<a><img src="https://img.shields.io/badge/-HTML-5B5658?style=for-the-badge&logo=html5" alt="HTML"></a>
+<a><img src="https://img.shields.io/badge/-CSS-5B5658?style=for-the-badge&logo=css3" alt="CSS"></a>
+<a><img src="https://img.shields.io/badge/-Sass-5B5658?style=for-the-badge&logo=sass" alt="Sass"></a>
+<a><img src="https://img.shields.io/badge/-PostCSS-5B5658?style=for-the-badge&logo=postcss" alt="PostCSS"></a>
+<a><img src="https://img.shields.io/badge/-Bootstrap-5B5658?style=for-the-badge&logo=bootstrap" alt="Bootstrap"></a>
+<a><img src="https://img.shields.io/badge/-Java-5B5658?style=for-the-badge&logo=oracle" alt="Java"></a>  
 
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/-Git-5B5658?style=for-the-badge&logo=git" alt="Git"></a>
-<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-5B5658?style=for-the-badge&logo=mysql" alt="MySQL"></a>
-<a href="https://www.latex-project.org"><img src="https://img.shields.io/badge/-Latex-5B5658?style=for-the-badge&logo=latex" alt="LaTeX"></a>  
+<a><img src="https://img.shields.io/badge/-Git-5B5658?style=for-the-badge&logo=git" alt="Git"></a>
+<a><img src="https://img.shields.io/badge/-MySQL-5B5658?style=for-the-badge&logo=mysql" alt="MySQL"></a>
+<a><img src="https://img.shields.io/badge/-PostgreSQL-5B5658?style=for-the-badge&logo=postgresql" alt="PostgreSQL"></a>
+<a><img src="https://img.shields.io/badge/-Latex-5B5658?style=for-the-badge&logo=latex" alt="LaTeX"></a>  
 
-<a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/-macOS-5B5658?style=for-the-badge&logo=apple" alt="macOS"></a>
-<a href="https://ubuntu.com"><img src="https://img.shields.io/badge/-Ubuntu-5B5658?style=for-the-badge&logo=ubuntu" alt="Ubuntu"></a>
-<a href="https://pop.system76.com"><img src="https://img.shields.io/badge/-Pop!__OS-5B5658?style=for-the-badge&logo=pop!_os" alt="Pop!_OS"></a>
-<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-VS%20Code-5B5658?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code"></a>
-<a href="https://www.jetbrains.com"><img src="https://img.shields.io/badge/-Jetbrains-5B5658?style=for-the-badge&logo=jetbrains" alt="Jetbrains"></a>
-<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-5B5658?style=for-the-badge&logo=figma" alt="Figma"></a>
+<a><img src="https://img.shields.io/badge/-macOS-5B5658?style=for-the-badge&logo=apple" alt="macOS"></a>
+<a><img src="https://img.shields.io/badge/-Ubuntu-5B5658?style=for-the-badge&logo=ubuntu" alt="Ubuntu"></a>
+<a><img src="https://img.shields.io/badge/-VS%20Code-5B5658?style=for-the-badge&logo=visualstudiocode" alt="Visual Studio Code"></a>
+<a><img src="https://img.shields.io/badge/-Jetbrains-5B5658?style=for-the-badge&logo=jetbrains" alt="Jetbrains"></a>
+<a><img src="https://img.shields.io/badge/-Figma-5B5658?style=for-the-badge&logo=figma" alt="Figma"></a>
         </td>
         <td width="400" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=000&layout=compact">
