@@ -17,21 +17,22 @@
 <table>
     <tr>
         <td>
-<a><img src="https://img.shields.io/badge/-Python-5B5658?style=for-the-badge&logo=python" alt="Python"></a>
-<a><img src="https://img.shields.io/badge/-Django-5B5658?style=for-the-badge&logo=django" alt="Django"></a>
 <a><img src="https://img.shields.io/badge/-React-5B5658?style=for-the-badge&logo=react" alt="ReactJS"></a>
 <a><img src="https://img.shields.io/badge/-TypeScript-5B5658?style=for-the-badge&logo=typescript" alt="TypeScript"></a>
 <a><img src="https://img.shields.io/badge/-JavaScript-5B5658?style=for-the-badge&logo=javascript" alt="JavaScript"></a>
+<a><img src="https://img.shields.io/badge/-Python-5B5658?style=for-the-badge&logo=python" alt="Python"></a>
+<a><img src="https://img.shields.io/badge/-Django-5B5658?style=for-the-badge&logo=django" alt="Django"></a>
 <a><img src="https://img.shields.io/badge/-HTML-5B5658?style=for-the-badge&logo=html5" alt="HTML"></a>
 <a><img src="https://img.shields.io/badge/-CSS-5B5658?style=for-the-badge&logo=css3" alt="CSS"></a>
 <a><img src="https://img.shields.io/badge/-Sass-5B5658?style=for-the-badge&logo=sass" alt="Sass"></a>
 <a><img src="https://img.shields.io/badge/-PostCSS-5B5658?style=for-the-badge&logo=postcss" alt="PostCSS"></a>
-<a><img src="https://img.shields.io/badge/-Bootstrap-5B5658?style=for-the-badge&logo=bootstrap" alt="Bootstrap"></a>
+<a><img src="https://img.shields.io/badge/-Electron-5B5658?style=for-the-badge&logo=electron" alt="Electron"></a>
 <a><img src="https://img.shields.io/badge/-Java-5B5658?style=for-the-badge&logo=oracle" alt="Java"></a>  
 
 <a><img src="https://img.shields.io/badge/-Git-5B5658?style=for-the-badge&logo=git" alt="Git"></a>
 <a><img src="https://img.shields.io/badge/-MySQL-5B5658?style=for-the-badge&logo=mysql" alt="MySQL"></a>
 <a><img src="https://img.shields.io/badge/-PostgreSQL-5B5658?style=for-the-badge&logo=postgresql" alt="PostgreSQL"></a>
+<a><img src="https://img.shields.io/badge/-Docker-5B5658?style=for-the-badge&logo=docker" alt="Docker"></a>
 <a><img src="https://img.shields.io/badge/-Latex-5B5658?style=for-the-badge&logo=latex" alt="LaTeX"></a>  
 
 <a><img src="https://img.shields.io/badge/-macOS-5B5658?style=for-the-badge&logo=apple" alt="macOS"></a>
