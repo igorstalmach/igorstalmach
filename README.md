@@ -20,13 +20,16 @@
 <a><img src="https://img.shields.io/badge/-React-5B5658?style=for-the-badge&logo=react" alt="ReactJS"></a>
 <a><img src="https://img.shields.io/badge/-TypeScript-5B5658?style=for-the-badge&logo=typescript" alt="TypeScript"></a>
 <a><img src="https://img.shields.io/badge/-JavaScript-5B5658?style=for-the-badge&logo=javascript" alt="JavaScript"></a>
-<a><img src="https://img.shields.io/badge/-Python-5B5658?style=for-the-badge&logo=python" alt="Python"></a>
-<a><img src="https://img.shields.io/badge/-Django-5B5658?style=for-the-badge&logo=django" alt="Django"></a>
 <a><img src="https://img.shields.io/badge/-HTML-5B5658?style=for-the-badge&logo=html5" alt="HTML"></a>
 <a><img src="https://img.shields.io/badge/-CSS-5B5658?style=for-the-badge&logo=css3" alt="CSS"></a>
 <a><img src="https://img.shields.io/badge/-Sass-5B5658?style=for-the-badge&logo=sass" alt="Sass"></a>
 <a><img src="https://img.shields.io/badge/-PostCSS-5B5658?style=for-the-badge&logo=postcss" alt="PostCSS"></a>
+
 <a><img src="https://img.shields.io/badge/-Electron-5B5658?style=for-the-badge&logo=electron" alt="Electron"></a>
+
+<a><img src="https://img.shields.io/badge/-Python-5B5658?style=for-the-badge&logo=python" alt="Python"></a>
+<a><img src="https://img.shields.io/badge/-Django-5B5658?style=for-the-badge&logo=django" alt="Django"></a>
+<a><img src="https://img.shields.io/badge/-Node.JS-5B5658?style=for-the-badge&logo=node.js" alt="Node.JS"></a>
 <a><img src="https://img.shields.io/badge/-Java-5B5658?style=for-the-badge&logo=oracle" alt="Java"></a>  
 
 <a><img src="https://img.shields.io/badge/-Git-5B5658?style=for-the-badge&logo=git" alt="Git"></a>
