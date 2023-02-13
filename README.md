@@ -7,7 +7,7 @@
 <h2>About me</h2>
 <ul>
     <li>💻  Computer science student from Poland 🇵🇱</li>
-    <li>🔭  Currently learning React</li>
+    <li>🔭  Currently learning React and TypeScript</li>
     <li>💬  Ask me about special relativity or the first iMac and we will talk for hours</li>
     <li>💾  One man's trash is another's home server</li>
 </ul>
@@ -29,7 +29,6 @@
 
 <a><img src="https://img.shields.io/badge/-Python-5B5658?style=for-the-badge&logo=python" alt="Python"></a>
 <a><img src="https://img.shields.io/badge/-Django-5B5658?style=for-the-badge&logo=django" alt="Django"></a>
-<a><img src="https://img.shields.io/badge/-Node.JS-5B5658?style=for-the-badge&logo=node.js" alt="Node.JS"></a>
 <a><img src="https://img.shields.io/badge/-Java-5B5658?style=for-the-badge&logo=oracle" alt="Java"></a>  
 
 <a><img src="https://img.shields.io/badge/-Git-5B5658?style=for-the-badge&logo=git" alt="Git"></a>
