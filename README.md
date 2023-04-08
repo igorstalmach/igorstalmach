@@ -23,7 +23,7 @@
 <a><img src="https://img.shields.io/badge/-HTML-5B5658?style=for-the-badge&logo=html5" alt="HTML"></a>
 <a><img src="https://img.shields.io/badge/-CSS-5B5658?style=for-the-badge&logo=css3" alt="CSS"></a>
 <a><img src="https://img.shields.io/badge/-Sass-5B5658?style=for-the-badge&logo=sass" alt="Sass"></a>
-<a><img src="https://img.shields.io/badge/-PostCSS-5B5658?style=for-the-badge&logo=postcss" alt="PostCSS"></a>
+<a><img src="https://img.shields.io/badge/-NextJS-5B5658?style=for-the-badge&logo=next.js" alt="NextJS"></a>
 
 <a><img src="https://img.shields.io/badge/-Electron-5B5658?style=for-the-badge&logo=electron" alt="Electron"></a>
 
