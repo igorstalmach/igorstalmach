@@ -5,13 +5,6 @@
 </a>
 
 <h2>About</h2>
-
-<div align='center'>
-<img src='./images/react.gif' alt='Classic React spinning logo' width='200'/>
-<img src='./images/react.gif' alt='Classic React spinning logo' width='200'/>
-<img src='./images/react.gif' alt='Classic React spinning logo' width='200'/>
-</div>
-
 <ul>
     <li>💻 front-end dev from Poland 🇵🇱</li>
     <li>💽 i promise i will update my repos here (been using GitlLab and Azure lately)</li>
@@ -58,8 +51,9 @@
 <a><img src="https://img.shields.io/badge/-Figma-5B5658?style=for-the-badge&logo=figma" alt="Figma"></a>
         </td>
         <td width="400" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=fff&layout=donut-vertical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=fff&card_width=495">
 <img src="https://streak-stats.demolab.com/?user=igorstalmach&theme=dracula"/>
+<img src='./images/react.gif' alt='Classic React spinning logo' width='100%'/>
         </td>
     </tr>
 </table>
