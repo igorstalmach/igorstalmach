@@ -5,11 +5,11 @@
 </a>
 
 <h2>About</h2>
-<ul>
-    <li>💻 front-end dev from Poland 🇵🇱</li>
-    <li>💽 i promise i will update my repos here (been using GitlLab and Azure lately)</li>
-    <li>📈 designer/developer/maintainer of <a href="https://tapicerstwo-stalmach.pl">tapicerstwo-stalmach.pl</a></li>
-    <li>🔭 currently learning about UI design</li>
+| <br/>
+| -- front-end dev from Poland <br/>
+| -- i promise i will update my repos here (been using GitLab and Azure lately) <br/>
+| -- designer/developer/maintainer of <a href="https://tapicerstwo-stalmach.pl">tapicerstwo-stalmach.pl</a> <br/>
+| -- currently learning about UI design
 </ul>
 
 <h2>Stack</h2>
