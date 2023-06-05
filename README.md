@@ -12,7 +12,11 @@
     <li>🔭 Currently learning about UI design</li>
 </ul>
 
-<img src='./images/react.gif' alt='Classic React spinning logo'/>
+<div align='center'>
+<img src='./images/react.gif' alt='Classic React spinning logo' width='200'/>
+<img src='./images/react.gif' alt='Classic React spinning logo' width='200'/>
+<img src='./images/react.gif' alt='Classic React spinning logo' width='200'/>
+</div>
 
 <h2>Stack</h2>
 
