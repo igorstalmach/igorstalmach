@@ -5,18 +5,19 @@
 </a>
 
 <h2>About</h2>
-<ul>
-    <li>💻 Front-end dev from Poland 🇵🇱</li>
-    <li>💽 I promise I will update my repos here (been using GitlLab and Azure lately)</li>
-    <li>📈 Designer/Developer/Maintainer of <a href="https://tapicerstwo-stalmach.pl">tapicerstwo-stalmach.pl</a></li>
-    <li>🔭 Currently learning about UI design</li>
-</ul>
 
 <div align='center'>
 <img src='./images/react.gif' alt='Classic React spinning logo' width='200'/>
 <img src='./images/react.gif' alt='Classic React spinning logo' width='200'/>
 <img src='./images/react.gif' alt='Classic React spinning logo' width='200'/>
 </div>
+
+<ul>
+    <li>💻 front-end dev from Poland 🇵🇱</li>
+    <li>💽 i promise i will update my repos here (been using GitlLab and Azure lately)</li>
+    <li>📈 designer/developer/maintainer of <a href="https://tapicerstwo-stalmach.pl">tapicerstwo-stalmach.pl</a></li>
+    <li>🔭 currently learning about UI design</li>
+</ul>
 
 <h2>Stack</h2>
 
@@ -57,7 +58,8 @@
 <a><img src="https://img.shields.io/badge/-Figma-5B5658?style=for-the-badge&logo=figma" alt="Figma"></a>
         </td>
         <td width="400" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=000&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorstalmach&theme=dracula&border_color=fff&layout=donut-vertical">
+<img src="https://streak-stats.demolab.com/?user=igorstalmach&theme=dracula"/>
         </td>
     </tr>
 </table>
