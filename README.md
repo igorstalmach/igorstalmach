@@ -7,9 +7,9 @@
 <h2>About</h2>
 | <br/>
 | -- front-end dev from Poland <br/>
-| -- i promise i will update my repos here (been using GitLab and Azure lately) <br/>
 | -- designer/developer/maintainer of <a href="https://tapicerstwo-stalmach.pl">tapicerstwo-stalmach.pl</a> <br/>
 | -- currently learning about UI design
+| -- have a great day
 </ul>
 
 <h2>Stack</h2>
@@ -20,7 +20,6 @@
         <h3>Front-end</h3>
 <a><img src="https://img.shields.io/badge/-React-5B5658?style=for-the-badge&logo=react" alt="ReactJS"></a>
 <a><img src="https://img.shields.io/badge/-Redux-5B5658?style=for-the-badge&logo=redux" alt="Redux"></a>
-<a><img src="https://img.shields.io/badge/-React Router-5B5658?style=for-the-badge&logo=react-router" alt="React Router"></a>
 <a><img src="https://img.shields.io/badge/-TypeScript-5B5658?style=for-the-badge&logo=typescript" alt="TypeScript"></a>
 <a><img src="https://img.shields.io/badge/-JavaScript-5B5658?style=for-the-badge&logo=javascript" alt="JavaScript"></a>
 <a><img src="https://img.shields.io/badge/-HTML-5B5658?style=for-the-badge&logo=html5" alt="HTML"></a>
@@ -36,7 +35,6 @@
 <h3>Back-end</h3>
 <a><img src="https://img.shields.io/badge/-Firebase-5B5658?style=for-the-badge&logo=firebase" alt="Firebase"></a>
 <a><img src="https://img.shields.io/badge/-Python-5B5658?style=for-the-badge&logo=python" alt="Python"></a>
-<a><img src="https://img.shields.io/badge/-Django-5B5658?style=for-the-badge&logo=django" alt="Django"></a>
 <a><img src="https://img.shields.io/badge/-Java-5B5658?style=for-the-badge&logo=oracle" alt="Java"></a>  
 <a><img src="https://img.shields.io/badge/-PostgreSQL-5B5658?style=for-the-badge&logo=postgresql" alt="PostgreSQL"></a>
 <a><img src="https://img.shields.io/badge/-Docker-5B5658?style=for-the-badge&logo=docker" alt="Docker"></a>
