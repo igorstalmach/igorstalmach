@@ -6,7 +6,7 @@
 
 <h2>About</h2>
 | <br/>
-| -- front-end dev from Poland <br/>
+| -- front-end developer from Poland <br/>
 | -- designer/developer/maintainer of <a href="https://tapicerstwo-stalmach.pl">tapicerstwo-stalmach.pl</a> <br/>
 | -- currently learning about UI design <br/>
 | -- have a great day
