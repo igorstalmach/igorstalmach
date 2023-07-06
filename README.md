@@ -8,7 +8,7 @@
 | <br/>
 | -- front-end developer from Poland <br/>
 | -- designer/developer/maintainer of <a href="https://tapicerstwo-stalmach.pl">tapicerstwo-stalmach.pl</a> <br/>
-| -- currently learning ThreeJS <br/>
+| -- currently learning Three.js <br/>
 </ul>
 
 <h2>Stack</h2>
