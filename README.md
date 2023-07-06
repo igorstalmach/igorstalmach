@@ -8,8 +8,7 @@
 | <br/>
 | -- front-end developer from Poland <br/>
 | -- designer/developer/maintainer of <a href="https://tapicerstwo-stalmach.pl">tapicerstwo-stalmach.pl</a> <br/>
-| -- currently learning about UI design <br/>
-| -- have a great day
+| -- currently learning ThreeJS <br/>
 </ul>
 
 <h2>Stack</h2>
@@ -18,6 +17,7 @@
     <tr>
         <td>
         <h3>Front-end</h3>
+<a><img src="https://img.shields.io/badge/-NextJS-5B5658?style=for-the-badge&logo=next.js" alt="NextJS"></a>
 <a><img src="https://img.shields.io/badge/-React-5B5658?style=for-the-badge&logo=react" alt="ReactJS"></a>
 <a><img src="https://img.shields.io/badge/-Redux-5B5658?style=for-the-badge&logo=redux" alt="Redux"></a>
 <a><img src="https://img.shields.io/badge/-TypeScript-5B5658?style=for-the-badge&logo=typescript" alt="TypeScript"></a>
@@ -26,7 +26,6 @@
 <a><img src="https://img.shields.io/badge/-CSS-5B5658?style=for-the-badge&logo=css3" alt="CSS"></a>
 <a><img src="https://img.shields.io/badge/-Sass-5B5658?style=for-the-badge&logo=sass" alt="Sass"></a>
 <a><img src="https://img.shields.io/badge/-Styled Components-5B5658?style=for-the-badge&logo=styledcomponents" alt="Styled Components"></a>
-<a><img src="https://img.shields.io/badge/-NextJS-5B5658?style=for-the-badge&logo=next.js" alt="NextJS"></a>
 <a><img src="https://img.shields.io/badge/-Bootstrap-5B5658?style=for-the-badge&logo=bootstrap" alt="Bootstrap"></a>
 <a><img src="https://img.shields.io/badge/-MaterialUI-5B5658?style=for-the-badge&logo=mui" alt="MaterialUI"></a>
 <a><img src="https://img.shields.io/badge/-Jest-5B5658?style=for-the-badge&logo=jest" alt="Jest"></a>
